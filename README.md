@@ -9,8 +9,8 @@
 * Daysi García Agustín, Centro de Investigaciones sobre Longevidad, Envejecimiento y Salud (CITED), Cuba, daysiga@infomed.sld.cu
 * Beatriz Machado Morciego, Universidad Tecnológica de La Habana, Cuba, bmachadom@automatica.cujae.edu.cu
 * Leynier Gutiérrez González, Universidad de La Habana, Cuba, l.gutierrez@estudiantes.matcom.uh.cu
-* Carlos Bermudez Porto, Universidad de La Habana, Cuba
-* Leonel García López, Universidad de La Habana, Cuba
+* Carlos Bermudez Porto, Universidad de La Habana, Cuba, c.bermudez@estudiantes.matcom.uh.cu
+* Leonel García López, Universidad de La Habana, Cuba, l.garcia@estudiantes.matcom.uh.cu
 * Hichem Sahli, Universidad Libre de Bruselas, Bélgica, hsahli@etrovub.be
 * Mitchell Valdés Sosa, Centro de Neurociencias de Cuba, Cuba
 
